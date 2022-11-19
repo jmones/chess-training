@@ -17,7 +17,6 @@ def interactive_color():
     correct = 0
     bad = 0
     play = True
-    elapsed = 0
     avg_elapsed = 0
     questions = 0
 
